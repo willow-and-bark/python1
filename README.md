@@ -1,3 +1,4 @@
 # python1
 Python based projects - early ones
-- now adding the first python script 
+
+dnsparse: tool used to parse and reformat named zone files into .yml files.
